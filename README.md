@@ -15,7 +15,7 @@ A model for classifying images into categories without prior training on those c
 A project that suggests relevant questions from Quora based on user input, using NLP techniques to analyze and match questions.
 
 
-5)Extractive Text Summarization
+5) Extractive Text Summarization
 A method for summarizing large texts by extracting key sentences, providing a concise overview of the content.
 
 
