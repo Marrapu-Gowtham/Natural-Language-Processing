@@ -62,13 +62,14 @@ A machine learning project classifying emails as spam or not spam using TF-IDF f
 --> Libraries Used
 
 
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-SpaCy
-NLTK
-Sentence-BERT
+Pandas,
+NumPy,
+Matplotlib,
+Plotly,
+Scikit-learn,
+SpaCy,
+NLTK,
+Sentence-BERT.
 
 --> Acknowledgments
 
